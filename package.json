@@ -1,0 +1,27 @@
+{
+  "name": "node_ci_eg",
+  "version": "1.0.0",
+  "description": "Example for Travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisRojas29/node_ci_eg.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "travis-ci"
+  ],
+  "author": "Luis Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisRojas29/node_ci_eg/issues"
+  },
+  "homepage": "https://github.com/luisRojas29/node_ci_eg#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
